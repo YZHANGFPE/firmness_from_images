@@ -1,0 +1,854 @@
+0  strawberry
+1  strawberry
+2  strawberry
+3  strawberry
+4  strawberry
+5  strawberry
+6  strawberry
+7  strawberry
+8  strawberry
+9  strawberry
+10  strawberry
+11  strawberry
+12  strawberry
+13  strawberry
+14  strawberry
+15  strawberry
+16  strawberry
+17  strawberry
+18  strawberry
+19  strawberry
+20  strawberry
+21  strawberry
+22  bell pepper green
+23  bell pepper green
+24  bell pepper green
+25  bell pepper green
+26  bell pepper green
+27  bell pepper green
+28  bell pepper green
+29  bell pepper green
+30  bell pepper green
+31  bell pepper green
+32  bell pepper green
+33  bell pepper green
+34  bell pepper green
+35  bell pepper green
+36  bell pepper green
+37  bell pepper green
+38  cauliflower
+39  cauliflower
+40  cauliflower
+41  cauliflower
+42  cauliflower
+43  cauliflower
+44  cauliflower
+45  cauliflower
+46  cauliflower
+47  cauliflower
+48  cauliflower
+49  cauliflower
+50  cauliflower
+51  cauliflower
+52  cauliflower
+53  cauliflower
+54  cauliflower
+55  cauliflower
+56  cauliflower
+57  cauliflower
+58  granny smith
+59  granny smith
+60  granny smith
+61  granny smith
+62  granny smith
+63  granny smith
+64  granny smith
+65  granny smith
+66  granny smith
+67  granny smith
+68  granny smith
+69  granny smith
+70  granny smith
+71  granny smith
+72  granny smith
+73  granny smith
+74  honeydew
+75  honeydew
+76  honeydew
+77  honeydew
+78  honeydew
+79  honeydew
+80  honeydew
+81  honeydew
+82  honeydew
+83  honeydew
+84  honeydew
+85  honeydew
+86  honeydew
+87  honeydew
+88  honeydew
+89  honeydew
+90  honeydew
+91  honeydew
+92  honeydew
+93  honeydew
+94  artichokes
+95  artichokes
+96  artichokes
+97  artichokes
+98  artichokes
+99  artichokes
+100  artichokes
+101  artichokes
+102  artichokes
+103  artichokes
+104  artichokes
+105  artichokes
+106  artichokes
+107  artichokes
+108  artichokes
+109  artichokes
+110  artichokes
+111  artichokes
+112  artichokes
+113  artichokes
+114  coconut
+115  coconut
+116  coconut
+117  coconut
+118  coconut
+119  coconut
+120  coconut
+121  coconut
+122  coconut
+123  coconut
+124  coconut
+125  coconut
+126  coconut
+127  coconut
+128  coconut
+129  coconut
+130  coconut
+131  coconut
+132  coconut
+133  coconut
+134  lime
+135  lime
+136  lime
+137  lime
+138  lime
+139  lime
+140  lime
+141  lime
+142  lime
+143  lime
+144  lime
+145  lime
+146  lime
+147  lime
+148  lime
+149  lime
+150  lime
+151  lime
+152  lime
+153  lime
+154  lime
+155  brussel sprout
+156  brussel sprout
+157  brussel sprout
+158  brussel sprout
+159  brussel sprout
+160  brussel sprout
+161  brussel sprout
+162  brussel sprout
+163  brussel sprout
+164  brussel sprout
+165  brussel sprout
+166  brussel sprout
+167  brussel sprout
+168  brussel sprout
+169  brussel sprout
+170  pomegranates
+171  pomegranates
+172  pomegranates
+173  pomegranates
+174  pomegranates
+175  pomegranates
+176  pomegranates
+177  pomegranates
+178  pomegranates
+179  pomegranates
+180  pomegranates
+181  pomegranates
+182  pomegranates
+183  pomegranates
+184  pomegranates
+185  pomegranates
+186  pomegranates
+187  pomegranates
+188  pomegranates
+189  pomegranates
+190  carrot
+191  carrot
+192  carrot
+193  carrot
+194  carrot
+195  carrot
+196  carrot
+197  carrot
+198  carrot
+199  carrot
+200  carrot
+201  carrot
+202  carrot
+203  carrot
+204  carrot
+205  carrot
+206  carrot
+207  carrot
+208  carrot
+209  carrot
+210  cranberry
+211  cranberry
+212  cranberry
+213  cranberry
+214  cranberry
+215  cranberry
+216  cranberry
+217  cranberry
+218  cranberry
+219  cranberry
+220  cranberry
+221  cranberry
+222  cranberry
+223  cranberry
+224  cranberry
+225  cranberry
+226  cranberry
+227  cranberry
+228  cranberry
+229  cranberry
+230  cranberry
+231  cranberry
+232  blueberry
+233  blueberry
+234  blueberry
+235  blueberry
+236  blueberry
+237  blueberry
+238  blueberry
+239  blueberry
+240  blueberry
+241  blueberry
+242  blueberry
+243  blueberry
+244  blueberry
+245  blueberry
+246  blueberry
+247  blueberry
+248  blueberry
+249  blueberry
+250  blueberry
+251  blueberry
+252  broccoli
+253  broccoli
+254  broccoli
+255  broccoli
+256  broccoli
+257  broccoli
+258  broccoli
+259  broccoli
+260  broccoli
+261  broccoli
+262  broccoli
+263  broccoli
+264  broccoli
+265  broccoli
+266  broccoli
+267  broccoli
+268  broccoli
+269  broccoli
+270  broccoli
+271  broccoli
+272  grapes green
+273  grapes green
+274  grapes green
+275  grapes green
+276  grapes green
+277  grapes green
+278  grapes green
+279  grapes green
+280  grapes green
+281  grapes green
+282  grapes green
+283  grapes green
+284  grapes green
+285  grapes green
+286  grapes green
+287  grapes green
+288  grapes green
+289  grapes green
+290  grapes green
+291  grapes green
+292  papaya
+293  papaya
+294  papaya
+295  papaya
+296  papaya
+297  papaya
+298  papaya
+299  papaya
+300  papaya
+301  papaya
+302  papaya
+303  papaya
+304  papaya
+305  papaya
+306  papaya
+307  papaya
+308  papaya
+309  papaya
+310  papaya
+311  papaya
+312  watermelon whole
+313  watermelon whole
+314  watermelon whole
+315  watermelon whole
+316  watermelon whole
+317  watermelon whole
+318  watermelon whole
+319  watermelon whole
+320  watermelon whole
+321  watermelon whole
+322  watermelon whole
+323  watermelon whole
+324  watermelon whole
+325  watermelon whole
+326  watermelon whole
+327  watermelon whole
+328  watermelon whole
+329  watermelon whole
+330  watermelon whole
+331  watermelon whole
+332  cabbage green
+333  cabbage green
+334  cabbage green
+335  cabbage green
+336  cabbage green
+337  cabbage green
+338  cabbage green
+339  cabbage green
+340  cabbage green
+341  cabbage green
+342  cabbage green
+343  cabbage green
+344  cabbage green
+345  cabbage green
+346  cabbage green
+347  cabbage green
+348  cabbage green
+349  cabbage green
+350  cabbage green
+351  cabbage green
+352  lemon
+353  lemon
+354  lemon
+355  lemon
+356  lemon
+357  lemon
+358  lemon
+359  lemon
+360  lemon
+361  lemon
+362  lemon
+363  lemon
+364  lemon
+365  lemon
+366  lemon
+367  lemon
+368  lemon
+369  lemon
+370  lemon
+371  lemon
+372  bell pepper red
+373  bell pepper red
+374  bell pepper red
+375  bell pepper red
+376  bell pepper red
+377  bell pepper red
+378  bell pepper red
+379  bell pepper red
+380  bell pepper red
+381  bell pepper red
+382  bell pepper red
+383  bell pepper red
+384  bell pepper red
+385  bell pepper red
+386  bell pepper red
+387  bell pepper red
+388  bell pepper red
+389  bell pepper red
+390  bell pepper red
+391  bell pepper red
+392  persimmons fuyu
+393  persimmons fuyu
+394  persimmons fuyu
+395  persimmons fuyu
+396  persimmons fuyu
+397  persimmons fuyu
+398  persimmons fuyu
+399  persimmons fuyu
+400  persimmons fuyu
+401  persimmons fuyu
+402  persimmons fuyu
+403  persimmons fuyu
+404  persimmons fuyu
+405  persimmons fuyu
+406  persimmons fuyu
+407  cabbage red
+408  cabbage red
+409  cabbage red
+410  cabbage red
+411  cabbage red
+412  cabbage red
+413  cabbage red
+414  cabbage red
+415  cabbage red
+416  cabbage red
+417  cabbage red
+418  cabbage red
+419  cabbage red
+420  cabbage red
+421  cabbage red
+422  cabbage red
+423  cabbage red
+424  cabbage red
+425  cabbage red
+426  cabbage red
+427  cantaloupe
+428  cantaloupe
+429  cantaloupe
+430  cantaloupe
+431  cantaloupe
+432  cantaloupe
+433  cantaloupe
+434  cantaloupe
+435  cantaloupe
+436  cantaloupe
+437  cantaloupe
+438  cantaloupe
+439  cantaloupe
+440  cantaloupe
+441  cantaloupe
+442  cantaloupe
+443  cantaloupe
+444  cantaloupe
+445  pear bartlett
+446  pear bartlett
+447  pear bartlett
+448  pear bartlett
+449  pear bartlett
+450  pear bartlett
+451  pear bartlett
+452  pear bartlett
+453  pear bartlett
+454  pear bartlett
+455  pear bartlett
+456  pear bartlett
+457  pear bartlett
+458  pear bartlett
+459  pear bartlett
+460  pear bartlett
+461  pear bartlett
+462  pear bartlett
+463  pear bartlett
+464  pear bartlett
+465  star fruit
+466  star fruit
+467  star fruit
+468  star fruit
+469  star fruit
+470  star fruit
+471  star fruit
+472  star fruit
+473  star fruit
+474  star fruit
+475  star fruit
+476  star fruit
+477  star fruit
+478  star fruit
+479  star fruit
+480  watermelon slice
+481  watermelon slice
+482  watermelon slice
+483  watermelon slice
+484  watermelon slice
+485  watermelon slice
+486  watermelon slice
+487  watermelon slice
+488  watermelon slice
+489  watermelon slice
+490  watermelon slice
+491  watermelon slice
+492  watermelon slice
+493  watermelon slice
+494  watermelon slice
+495  watermelon slice
+496  watermelon slice
+497  watermelon slice
+498  watermelon slice
+499  watermelon slice
+500  grape fruit pink
+501  grape fruit pink
+502  grape fruit pink
+503  grape fruit pink
+504  grape fruit pink
+505  grape fruit pink
+506  grape fruit pink
+507  grape fruit pink
+508  grape fruit pink
+509  grape fruit pink
+510  grape fruit pink
+511  grape fruit pink
+512  grape fruit pink
+513  grape fruit pink
+514  grape fruit pink
+515  grape fruit pink
+516  grape fruit pink
+517  grape fruit pink
+518  grape fruit pink
+519  grape fruit pink
+520  mango
+521  mango
+522  mango
+523  mango
+524  mango
+525  mango
+526  mango
+527  mango
+528  mango
+529  mango
+530  mango
+531  mango
+532  mango
+533  mango
+534  mango
+535  mango
+536  mango
+537  mango
+538  mango
+539  mango
+540  blackberry
+541  blackberry
+542  blackberry
+543  blackberry
+544  blackberry
+545  blackberry
+546  blackberry
+547  blackberry
+548  blackberry
+549  blackberry
+550  blackberry
+551  blackberry
+552  blackberry
+553  blackberry
+554  blackberry
+555  blackberry
+556  blackberry
+557  blackberry
+558  blackberry
+559  blackberry
+560  pineapple
+561  pineapple
+562  pineapple
+563  pineapple
+564  pineapple
+565  pineapple
+566  pineapple
+567  pineapple
+568  pineapple
+569  pineapple
+570  pineapple
+571  pineapple
+572  pineapple
+573  pineapple
+574  pineapple
+575  pineapple
+576  pineapple
+577  pineapple
+578  pineapple
+579  pineapple
+580  asparagus
+581  asparagus
+582  asparagus
+583  asparagus
+584  asparagus
+585  asparagus
+586  asparagus
+587  asparagus
+588  asparagus
+589  asparagus
+590  asparagus
+591  asparagus
+592  asparagus
+593  asparagus
+594  asparagus
+595  asparagus
+596  asparagus
+597  asparagus
+598  asparagus
+599  asparagus
+600  bok choy
+601  bok choy
+602  bok choy
+603  bok choy
+604  bok choy
+605  bok choy
+606  bok choy
+607  bok choy
+608  bok choy
+609  bok choy
+610  bok choy
+611  bok choy
+612  bok choy
+613  bok choy
+614  bok choy
+615  bok choy
+616  bok choy
+617  bok choy
+618  bok choy
+619  bok choy
+620  figs clamshell
+621  figs clamshell
+622  figs clamshell
+623  figs clamshell
+624  figs clamshell
+625  figs clamshell
+626  figs clamshell
+627  green beans
+628  green beans
+629  green beans
+630  green beans
+631  green beans
+632  green beans
+633  green beans
+634  green beans
+635  green beans
+636  green beans
+637  green beans
+638  green beans
+639  green beans
+640  green beans
+641  green beans
+642  pomelo
+643  pomelo
+644  pomelo
+645  pomelo
+646  pomelo
+647  pomelo
+648  pomelo
+649  pomelo
+650  pomelo
+651  pomelo
+652  pomelo
+653  pomelo
+654  pomelo
+655  pomelo
+656  pomelo
+657  pomelo
+658  pomelo
+659  pomelo
+660  pomelo
+661  pomelo
+662  dates fruit
+663  dates fruit
+664  dates fruit
+665  dates fruit
+666  dates fruit
+667  dates fruit
+668  dates fruit
+669  dates fruit
+670  dates fruit
+671  dates fruit
+672  dates fruit
+673  dates fruit
+674  dates fruit
+675  dates fruit
+676  dates fruit
+677  dates fruit
+678  dates fruit
+679  dates fruit
+680  dates fruit
+681  dates fruit
+682  dates fruit
+683  plum
+684  plum
+685  plum
+686  plum
+687  plum
+688  plum
+689  plum
+690  plum
+691  plum
+692  plum
+693  plum
+694  plum
+695  plum
+696  plum
+697  plum
+698  plum
+699  plum
+700  plum
+701  plum
+702  plum
+703  kiwi
+704  kiwi
+705  kiwi
+706  kiwi
+707  kiwi
+708  kiwi
+709  kiwi
+710  kiwi
+711  kiwi
+712  kiwi
+713  kiwi
+714  kiwi
+715  kiwi
+716  kiwi
+717  kiwi
+718  kiwi
+719  kiwi
+720  kiwi
+721  kiwi
+722  kiwi
+723  orange
+724  orange
+725  orange
+726  orange
+727  orange
+728  orange
+729  orange
+730  orange
+731  orange
+732  orange
+733  orange
+734  orange
+735  orange
+736  orange
+737  orange
+738  orange
+739  orange
+740  orange
+741  orange
+742  orange
+743  orange
+744  orange
+745  avocados
+746  avocados
+747  avocados
+748  avocados
+749  avocados
+750  avocados
+751  avocados
+752  avocados
+753  avocados
+754  avocados
+755  avocados
+756  avocados
+757  avocados
+758  avocados
+759  avocados
+760  avocados
+761  avocados
+762  avocados
+763  avocados
+764  avocados
+765  avocados
+766  avocados
+767  avocados
+768  galla apple
+769  galla apple
+770  galla apple
+771  galla apple
+772  galla apple
+773  galla apple
+774  galla apple
+775  galla apple
+776  galla apple
+777  galla apple
+778  galla apple
+779  galla apple
+780  galla apple
+781  galla apple
+782  galla apple
+783  galla apple
+784  galla apple
+785  galla apple
+786  galla apple
+787  galla apple
+788  galla apple
+789  galla apple
+790  galla apple
+791  galla apple
+792  galla apple
+793  galla apple
+794  galla apple
+795  peaches
+796  peaches
+797  peaches
+798  peaches
+799  peaches
+800  peaches
+801  peaches
+802  peaches
+803  peaches
+804  peaches
+805  peaches
+806  peaches
+807  peaches
+808  peaches
+809  peaches
+810  peaches
+811  peaches
+812  peaches
+813  peaches
+814  peaches
+815  grapes red
+816  grapes red
+817  grapes red
+818  grapes red
+819  grapes red
+820  grapes red
+821  grapes red
+822  grapes red
+823  grapes red
+824  grapes red
+825  grapes red
+826  grapes red
+827  grapes red
+828  grapes red
+829  grapes red
+830  grapes red
+831  grapes red
+832  grapes red
+833  grapes red
+834  grapes red
+835  bananas
+836  bananas
+837  bananas
+838  bananas
+839  bananas
+840  bananas
+841  bananas
+842  bananas
+843  bananas
+844  bananas
+845  bananas
+846  bananas
+847  bananas
+848  bananas
+849  bananas
+850  bananas
+851  bananas
+852  bananas
+853  bananas

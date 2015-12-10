@@ -1,0 +1,5 @@
+*.odt
+scripts/*.png
+scripts/*.swp
+scripts/.~*
+*.pdf
